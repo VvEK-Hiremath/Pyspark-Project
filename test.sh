@@ -3,4 +3,5 @@
 echo -e "This script is using the Bash interpreter..."
 echo -e "Executing python script from shell....\n"
 
-echo "executed finally.."
+python sample.py
+echo "executed successfully.."
